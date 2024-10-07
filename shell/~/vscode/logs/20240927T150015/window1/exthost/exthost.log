@@ -1,0 +1,21 @@
+2024-09-27 15:00:17.010 [info] Extension host with pid 3390 started
+2024-09-27 15:00:17.069 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-27 15:00:17.097 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-27 15:00:17.146 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-27 15:00:17.259 [info] Eager extensions activated
+2024-09-27 15:00:17.279 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-27 15:00:17.281 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-27 15:00:28.710 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-27 15:00:28.719 [info] Extension host with pid 3390 exiting with code 0
+2024-09-27 15:00:29.263 [info] Extension host with pid 3529 started
+2024-09-27 15:00:29.263 [info] Skipping acquiring lock for /root/shell/~/vscode/User/workspaceStorage/e4eea40f8d9b11f6d1113940f30616c2.
+2024-09-27 15:00:29.310 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-09-27 15:00:29.324 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-27 15:00:29.337 [info] Eager extensions activated
+2024-09-27 15:00:29.362 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-27 15:00:29.363 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-27 15:00:31.885 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-09-27 15:00:33.559 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2024-09-27 15:00:33.668 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-27 15:50:16.862 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-27 15:50:16.872 [info] Extension host with pid 3529 exiting with code 0

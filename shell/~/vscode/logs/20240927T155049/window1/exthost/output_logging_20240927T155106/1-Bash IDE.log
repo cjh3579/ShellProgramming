@@ -1,0 +1,31 @@
+[Warn  - 오후 3:51:06] 06:51:06.810 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 오후 3:51:06] 06:51:06.833 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///root/shell"...
+[Info  - 오후 3:51:06] 06:51:06.852 INFO BackgroundAnalysis: Glob resolved with 30 files after 0.019 seconds
+[Warn  - 오후 3:51:06] 06:51:06.896 WARNING ⛔️ Error while parsing file:///root/shell/~/vscode/User/History/fee175f/cIwF.sh: syntax error
+[Info  - 오후 3:51:06] 06:51:06.897 INFO BackgroundAnalysis: Completed after 0.064 seconds.
+[Warn  - 오후 3:51:07] 06:51:07.338 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
+[Warn  - 오후 3:51:30] 06:51:30.806 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:31] 06:51:31.503 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:33] 06:51:33.454 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:33] 06:51:33.894 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:34] 06:51:34.807 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:35] 06:51:35.206 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:36] 06:51:36.384 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:36] 06:51:36.550 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:36] 06:51:36.974 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:37] 06:51:37.079 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:37] 06:51:37.551 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:39] 06:51:39.279 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:41] 06:51:41.321 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:41] 06:51:41.980 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:42] 06:51:42.065 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:43] 06:51:43.591 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:44] 06:51:44.361 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:44] 06:51:44.840 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:44] 06:51:44.950 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:45] 06:51:45.160 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:51:50] 06:51:50.814 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:52:13] 06:52:13.240 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:52:22] 06:52:22.383 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:52:22] 06:52:22.453 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error
+[Warn  - 오후 3:52:24] 06:52:23.999 WARNING ⛔️ Error while parsing file:///root/bin/poweroff.sh: syntax error

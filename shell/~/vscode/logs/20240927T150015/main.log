@@ -1,0 +1,6 @@
+2024-09-27 15:00:15.732 [info] update#setState idle
+2024-09-27 15:00:28.720 [info] Extension host with pid 3390 exited with code: 0, signal: unknown.
+2024-09-27 15:00:28.729 [error] [UtilityProcessWorker]: terminated unexpectedly with code 867251312, signal: unknown
+2024-09-27 15:00:45.736 [info] update#setState checking for updates
+2024-09-27 15:00:45.818 [info] update#setState idle
+2024-09-27 15:50:16.874 [info] Extension host with pid 3529 exited with code: 0, signal: unknown.
